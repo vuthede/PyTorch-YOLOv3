@@ -1,0 +1,6 @@
+classes= 20
+train=data/voc/trainval_2007_2012.txt
+valid=data/voc/test_2007.txt
+names=data/voc.names
+backup=backup/
+eval=voc

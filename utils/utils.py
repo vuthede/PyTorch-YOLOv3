@@ -7,6 +7,8 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.autograd import Variable
 import numpy as np
+import matplotlib as mpl
+mpl.use('TkAgg') 
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 
